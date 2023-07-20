@@ -1,4 +1,3 @@
-Temperature-Converter
 
 This project is a simple temperature converter that allows users to convert temperatures from Celsius to Fahrenheit. It is built using HTML, CSS, and JavaScript.
 
